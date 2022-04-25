@@ -5,7 +5,7 @@ Hello,
 My name is Anderson and this is my submission to the
 Swift Student Challenge Submission of WWDC22.
 
-I had used tree assets from Wikipedia, whose are licenced under public domain.
+I had used tree assets from Wikipedia, which are licenced under public domain.
 
 CaesarCipher
 Author: "Didactylos"
